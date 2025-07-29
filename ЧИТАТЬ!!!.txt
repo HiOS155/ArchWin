@@ -1,0 +1,11 @@
+шаг 1-Установка 
+запустите "installer.cmd", после запуска запустится файл который изменит загрузчик системы
+шаг 2-Конец установки
+перезагрузите ПК ведите пароль (если есть) и всё! ArchWin готова
+
+поддержка в Telegram - @Kknarry1
+
+
+
+
+скачать файл - https://drive.google.com/file/d/1QgBB5QgbWyCcEoOAZiXjFGOU_Z_lWimg/view?usp=drivesdk
