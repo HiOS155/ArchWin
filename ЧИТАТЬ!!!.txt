@@ -1,14 +1,7 @@
-шаг 1-Установка 
-запустите "installer.cmd", после запуска запустится файл который изменит загрузчик системы
-шаг 2-создание пользователя
-запустите user.cmd и всё
-шаг 3-Конец установки
-перезагрузите ПК ведите пароль (если есть) и всё! ArchWin готова
+Запустите файл installer.bat (ОБЕЗАТЕЛЬНО ОТ ИМЕНИ АДМИНИСТРАТОРА)
 
 поддержка в Telegram - @Kknarry1
 
+Телеграмм канал - @ArchWin10
 
-если у вас не запустился reg.reg то запустите его самостоятельно иначе установка не будет завершена!!!!
-
-
-скачать файл - https://drive.google.com/file/d/191yJOyW95nOwzfLspk71eodaz9jVXdHj/view?usp=sharing
+скачать файл - https://drive.google.com/file/d/12ofTymODV0YpuxZPoU-Ha7vcTLBlRl7z/view?usp=drive_link
